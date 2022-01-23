@@ -1,0 +1,48 @@
+input{
+padding: 10px;
+margin-left: auto;
+margin-right: auto;
+font-weight: bold;
+display:flex;
+margin-bottom: 20px;
+margin-top:20px ;
+text-align: center;
+}
+
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background: darkred;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top:20px ;
+    display:flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: center;
+}
+
+
+div{
+
+    margin-left: auto;
+    margin-right: auto;
+    display:flex;
+
+}
+
+p{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-left: auto;
+    padding-right: auto;
+    display:flex;
+}
